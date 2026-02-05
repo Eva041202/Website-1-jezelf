@@ -1,14 +1,40 @@
-div {
+html { 
+
+     Color-scheme: Light dark; 
+} 
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.minor {
+    grid-column-start: 2;
+}
+
+.container {
+    display: flex;
+    gap: 600px;
+}
+
+.item,.box {
     border: 2px solid lightseagreen;
     padding: 20px;
     margin: 30px;
-    background-color: aqua;
     border-radius: 10px;
+    max-width: 150px;
+    display: grid;
+    justify-items: center;
+}
+
+.item {
+    background-color: aqua;
 }
 
 .box {
-    border: 2px solid lightseagreen;
-    padding: 20px;
-    margin: 30px;
     background-color: paleturquoise;
+}
+
+h2 {
+    color: rgb(250, 1, 125)
 }
