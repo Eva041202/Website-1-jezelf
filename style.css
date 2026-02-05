@@ -1,0 +1,14 @@
+div {
+    border: 2px solid lightseagreen;
+    padding: 20px;
+    margin: 30px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.box {
+    border: 2px solid lightseagreen;
+    padding: 20px;
+    margin: 30px;
+    background-color: paleturquoise;
+}
