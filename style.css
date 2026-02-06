@@ -1,7 +1,27 @@
 html { 
 
-     Color-scheme: Light dark; 
-} 
+    color-scheme: light dark;
+    --background: white; 
+    --heading-color: deeppink;
+    --item-color: aqua;
+    --box-color: paleturquoise;
+    @media (prefers-color-scheme: dark) { 
+        --background: black;
+        --heading-color: lightseagreen;
+        --item-color: deeppink;
+        --box-color: hotpink;
+    } 
+}
+
+body {
+    background-color: var(--background);
+}
+
+.bodyGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-start: 2;
+}
 
 main {
     display: grid;
@@ -15,6 +35,7 @@ main {
 .container {
     display: flex;
     gap: 600px;
+    color: var(--heading-color);
 }
 
 .item,.box {
@@ -22,19 +43,34 @@ main {
     padding: 20px;
     margin: 30px;
     border-radius: 10px;
-    max-width: 150px;
+    max-width: 170px;
     display: grid;
     justify-items: center;
 }
 
 .item {
     background-color: aqua;
+    color: var(--item-color);
 }
 
 .box {
     background-color: paleturquoise;
+    color: var(--box-color);
+}
+
+h1 {
+    font-family: impact;
 }
 
 h2 {
-    color: rgb(250, 1, 125)
+    color: var(--heading-color);
+    font-family: papyrus;
+}
+
+h4 {
+    font-family: papyrus;
+}
+
+p {
+    font-family: cursive;
 }

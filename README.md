@@ -80,9 +80,9 @@ Workshop responsiveness gevolgd. Dit was te volgen, maar hier moet ik wel meer m
 Van Vasilis de dlo-pagina gekregen van cmd jaar 2 om met CSS te kunnen oefenen.
 
 <img src="Images/week_01/dag_03/18.jpg" alt="18" width="500px">
-<img src="Images/week_01/dag_02/19.jpg" alt="19" width="500px">
-<img src="Images/week_01/dag_02/20.jpg" alt="20" width="500px">
-<img src="Images/week_01/dag_02/21.jpg" alt="21" width="500px">
+<img src="Images/week_01/dag_03/19.jpg" alt="19" width="500px">
+<img src="Images/week_01/dag_03/20.jpg" alt="20" width="500px">
+<img src="Images/week_01/dag_03/21.jpg" alt="21" width="500px">
 
 ## Checkout
 Besproken met Joost.
@@ -121,3 +121,28 @@ Morgen wil ik kijken of de dark/light lukt met een knop.
 Ik wil oefeningen maken uit dlo van cmd jaar 2 CSS. 
 Ik hoop feedback te kunnen krijgen op mijn code met de website en deze toe te passen. 
 Van Justus had ik gister een artikel doorgestuurd gekregen over basis van CSS. Deze wil ik ook lezen en samenvatten.
+
+# Dag 4 (06-02-2026)
+
+Vandaag heb ik het artikel 'Understanding the fundamentals of CSS Layout' gelezen en deels samengevat. Halverwege liep ik een beetje vast en heb ik het even aan de kant gezet.
+Ik wilde een button maken op de website voor dark/light mode, maar dit was niet nodig. Ik heb nu een dark/light mode zonder knop.
+Met typography wat geprobeerd en verschillende kopjes het lettertype aangepast.
+
+<a href="https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/">Understanding the fundamentals of CSS Layout</a>
+
+<img src="Images/week_01/dag_04/22.jpg" alt="22" width="500px">
+<img src="Images/week_01/dag_04/23.jpg" alt="23" width="500px">
+<img src="Images/week_01/dag_04/24.jpg" alt="24" width="500px">
+
+
+# Dag 5 (09-02-2026)
+
+## Checkout
+
+## Wat heb ik gedaan vandaag?
+
+## Hoe lang duurde het?
+
+## Wat heb ik geleerd?
+
+## Wat ga ik morgen doen?
