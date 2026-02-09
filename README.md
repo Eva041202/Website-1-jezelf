@@ -134,17 +134,30 @@ Met typography wat geprobeerd en verschillende kopjes het lettertype aangepast.
 <img src="./media/dag_04/23.jpg" alt="23" width="500px">
 <img src="./media/dag_04/24.jpg" alt="24" width="500px">
 
+##Checkout week.
+
 
 # Dag 5 (09-02-2026)
 
+<img src="./media/dag_05/2e_eis.jpg" alt="2e_eis" width="500px">
+
 ## Checkout
+Besproken met Julius.
+Julius is de hele dag bezig geweest met animatie.
 
 ## Wat heb ik gedaan vandaag?
-Naam van studenten in 3e grid zijn ook roze door de h2, maar dit vond ik wel leuk en passend bij de rest op de pagina
+Van Sanne geleerd hoe je grids benoemt en op die manier ze beter een plek kunnen geven, ook als de grootte van het beeld veranderd.
+De namen van studenten in de 3e grid zijn ook roze door de h2, maar dit vond ik wel leuk en passend bij de rest op de pagina.
+Cyd heeft me geholpen met de github dat de afbeeldingen te zien zijn en neit alleen de alt
 
+In de CSS geef ik aan dat ik 3 kolommen wil met 3x 1fr. De website laat maar 2 kolommen zien. Dit wil ik morgen even vragen
 
 ## Hoe lang duurde het?
+Van +/- 09:15 tot 16:30
 
 ## Wat heb ik geleerd?
+Om grid aan te geven/passen met grid-template-areas en een media query
 
 ## Wat ga ik morgen doen?
+Morgen volg ik de workshop typografie van Vasilis en daarna de workshop basishygiëne van Cyd
+Ik wil de gegevens van mezelf uit de API in mijn website zetten onder het kopje "persoonlijk"

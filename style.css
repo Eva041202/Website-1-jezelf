@@ -24,7 +24,45 @@ body {
 
 main {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+
+    @media (width > 30em) {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+        "ik     derdeGrid"
+        "prof   derdeGrid"
+        "minor  derdeGrid"
+        "footer footer";
+    }
+
+    .ik {
+        grid-area:ik;
+    }
+
+    .prof {
+        grid-area:prof;
+    }
+
+    .minor {
+        grid-area:minor;
+    }
+
+    .derdeGrid {
+        grid-area:derdeGrid;
+    }
+
+    footer {
+        grid-area:footer;
+    }
+
+    @media (width > 50em) {
+    main {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas:
+            "ik     prof   derdeGrid"
+            "ik     minor  derdeGrid"
+            "footer footer footer";
+    }
+    }
 }
 
 .minor {
