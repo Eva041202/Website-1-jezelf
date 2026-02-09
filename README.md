@@ -2,15 +2,15 @@
 
 Vandaag wat geprobeerd in HTML
 
-<img src="Images/week_01/dag_01/ontwerp.jpg" alt="ontwerp" width="500px">
-<img src="Images/week_01/dag_01/01.jpg" alt="01" width="500px">
-<img src="Images/week_01/dag_01/02.jpg" alt="02" width="500px">
-<img src="Images/week_01/dag_01/03.jpg" alt="03" width="500px">
-<img src="Images/week_01/dag_01/04.jpg" alt="04" width="500px">
-<img src="Images/week_01/dag_01/05.jpg" alt="05" width="500px">
-<img src="Images/week_01/dag_01/06.jpg" alt="06" width="500px">
-<img src="Images/week_01/dag_01/07.jpg" alt="07" width="500px">
-<img src="Images/week_01/dag_01/08.jpg" alt="08" width="500px">
+<img src="./media/week_01/dag_01/ontwerp.jpg" alt="ontwerp" width="500px">
+<img src="./media/week_01/dag_01/01.jpg" alt="01" width="500px">
+<img src="./media/week_01/dag_01/02.jpg" alt="02" width="500px">
+<img src="./media/week_01/dag_01/03.jpg" alt="03" width="500px">
+<img src="./media/week_01/dag_01/04.jpg" alt="04" width="500px">
+<img src="./media/week_01/dag_01/05.jpg" alt="05" width="500px">
+<img src="./media/week_01/dag_01/06.jpg" alt="06" width="500px">
+<img src="./media/week_01/dag_01/07.jpg" alt="07" width="500px">
+<img src="./media/week_01/dag_01/08.jpg" alt="08" width="500px">
 
 # Checkout
 ## Wat heb ik gedaan vandaag: 
@@ -34,15 +34,15 @@ Ik volg de twee workshops van Justus.
 
 Wat gedaan met CSS
 
-<img src="Images/week_01/dag_02/09.jpg" alt="09" width="500px">
-<img src="Images/week_01/dag_02/10.jpg" alt="10" width="500px">
-<img src="Images/week_01/dag_02/11.jpg" alt="11" width="500px">
-<img src="Images/week_01/dag_02/12.jpg" alt="12" width="500px">
-<img src="Images/week_01/dag_02/13.jpg" alt="13" width="500px">
-<img src="Images/week_01/dag_02/14.jpg" alt="14" width="500px">
-<img src="Images/week_01/dag_02/15.jpg" alt="15" width="500px">
-<img src="Images/week_01/dag_02/16.jpg" alt="16" width="500px">
-<img src="Images/week_01/dag_02/17.jpg" alt="17" width="500px">
+<img src="./media/week_01/dag_02/09.jpg" alt="09" width="500px">
+<img src="./media/week_01/dag_02/10.jpg" alt="10" width="500px">
+<img src="./media/week_01/dag_02/11.jpg" alt="11" width="500px">
+<img src="./media/week_01/dag_02/12.jpg" alt="12" width="500px">
+<img src="./media/week_01/dag_02/13.jpg" alt="13" width="500px">
+<img src="./media/week_01/dag_02/14.jpg" alt="14" width="500px">
+<img src="./media/week_01/dag_02/15.jpg" alt="15" width="500px">
+<img src="./media/week_01/dag_02/16.jpg" alt="16" width="500px">
+<img src="./media/week_01/dag_02/17.jpg" alt="17" width="500px">
 
 ## Checkout
 Besproken met Jelle 
@@ -79,10 +79,10 @@ Workshop responsiveness gevolgd. Dit was te volgen, maar hier moet ik wel meer m
 
 Van Vasilis de dlo-pagina gekregen van cmd jaar 2 om met CSS te kunnen oefenen.
 
-<img src="Images/week_01/dag_03/18.jpg" alt="18" width="500px">
-<img src="Images/week_01/dag_03/19.jpg" alt="19" width="500px">
-<img src="Images/week_01/dag_03/20.jpg" alt="20" width="500px">
-<img src="Images/week_01/dag_03/21.jpg" alt="21" width="500px">
+<img src="./media/week_01/dag_03/18.jpg" alt="18" width="500px">
+<img src="./media/week_01/dag_03/19.jpg" alt="19" width="500px">
+<img src="./media/week_01/dag_03/20.jpg" alt="20" width="500px">
+<img src="./media/week_01/dag_03/21.jpg" alt="21" width="500px">
 
 ## Checkout
 Besproken met Joost.
@@ -130,9 +130,9 @@ Met typography wat geprobeerd en verschillende kopjes het lettertype aangepast.
 
 <a href="https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/">Understanding the fundamentals of CSS Layout</a>
 
-<img src="Images/week_01/dag_04/22.jpg" alt="22" width="500px">
-<img src="Images/week_01/dag_04/23.jpg" alt="23" width="500px">
-<img src="Images/week_01/dag_04/24.jpg" alt="24" width="500px">
+<img src="./media/week_01/dag_04/22.jpg" alt="22" width="500px">
+<img src="./media/week_01/dag_04/23.jpg" alt="23" width="500px">
+<img src="./media/week_01/dag_04/24.jpg" alt="24" width="500px">
 
 
 # Dag 5 (09-02-2026)
