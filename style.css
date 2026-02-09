@@ -1,5 +1,4 @@
 html { 
-
     color-scheme: light dark;
     --background: white; 
     --heading-color: deeppink;
@@ -10,7 +9,7 @@ html {
         --heading-color: lightseagreen;
         --item-color: deeppink;
         --box-color: hotpink;
-    } 
+    }
 }
 
 body {
@@ -19,13 +18,13 @@ body {
 
 .bodyGrid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-column-start: 2;
 }
 
 main {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .minor {
@@ -58,8 +57,13 @@ main {
     color: var(--box-color);
 }
 
+.derdeGrid {
+    grid-column-start: 3;
+}
+
 h1 {
     font-family: impact;
+    text-align: center
 }
 
 h2 {

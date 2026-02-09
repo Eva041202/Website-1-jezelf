@@ -140,6 +140,8 @@ Met typography wat geprobeerd en verschillende kopjes het lettertype aangepast.
 ## Checkout
 
 ## Wat heb ik gedaan vandaag?
+Naam van studenten in 3e grid zijn ook roze door de h2, maar dit vond ik wel leuk en passend bij de rest op de pagina
+
 
 ## Hoe lang duurde het?
 
