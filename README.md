@@ -161,3 +161,27 @@ Om grid aan te geven/passen met grid-template-areas en een media query
 ## Wat ga ik morgen doen?
 Morgen volg ik de workshop typografie van Vasilis en daarna de workshop basishygiëne van Cyd
 Ik wil de gegevens van mezelf uit de API in mijn website zetten onder het kopje "persoonlijk"
+
+# Dag 6 (10-02-2026)
+
+## Checkout
+Besproken met Jeppe.
+
+## Wat heb ik gedaan vandaag?
+Ik heb ook info kunnen halen uit de API over mezelf voor het kopje Persoonlijk.
+De borders op de website veranderen nu ook van kleur in light/dark-mode, inplaats van alleen de teksten
+De icon van de website de foto uit de api gegeven
+Bij je eigen gegevens kan je o.a. aangeven wat je favoriete html-tag is. Hier staan veel begrippen die ik nog niet ken. Deze ben ik gaan uitschrijven in m'n schrift, zodat ik dit weet/onthoud en misschien later kan toepassen
+
+## Hoe lang duurde het?
+Van +/- 09:10 tot
+
+## Wat heb ik geleerd?
+Choice heeft me laten zien hoe je het plaatje van de icon van de website kan veranderen
+Tijdens de checkout liet Jeppe me een website zien voor gradient generator. Zo kan ik veel makkelijker naar juiste kleuren zoeken.
+Sanne heeft me laten zien hoe je iets op de background kan laten meescrollen of juist kan vasthouden
+
+## Wat ga ik morgen doen?
+Ik heb nu erg veel wit onder het kopje persoonlijk. Er was minder tekst dan verwacht.
+Ik wil hier voor iets bedenken om het op te vullen
+Ik wil een andere background toevoegen voor de dark-mode

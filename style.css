@@ -1,10 +1,12 @@
-html { 
+html {
     color-scheme: light dark;
-    --background: white; 
+    --background: #EEAECA;
+    --background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(217, 177, 209, 1) 25%, rgba(193, 181, 218, 1) 50%, rgba(166, 185, 227, 1) 75%, rgba(148, 187, 233, 1) 100%);
     --heading-color: deeppink;
     --item-color: aqua;
     --box-color: paleturquoise;
-    @media (prefers-color-scheme: dark) { 
+
+    @media (prefers-color-scheme: dark) {
         --background: black;
         --heading-color: lightseagreen;
         --item-color: deeppink;
@@ -13,7 +15,10 @@ html {
 }
 
 body {
-    background-color: var(--background);
+    background: var(--background);
+
+    background-size:100dvw 100dvh;
+    background-attachment: fixed;
 }
 
 .bodyGrid {
@@ -24,45 +29,46 @@ body {
 
 main {
     display: grid;
-
-    @media (width > 30em) {
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas:
+    @media (width > 30rem) {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
         "ik     derdeGrid"
         "prof   derdeGrid"
         "minor  derdeGrid"
         "footer footer";
-    }
 
-    .ik {
-        grid-area:ik;
+        img {max-width: 100px};
     }
-
-    .prof {
-        grid-area:prof;
-    }
-
-    .minor {
-        grid-area:minor;
-    }
-
-    .derdeGrid {
-        grid-area:derdeGrid;
-    }
-
-    footer {
-        grid-area:footer;
-    }
-
-    @media (width > 50em) {
-    main {
+    @media (width > 50rem) {
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-areas:
             "ik     prof   derdeGrid"
             "ik     minor  derdeGrid"
             "footer footer footer";
+
+        img {max-width: 150px};
     }
+    
+    .ik {
+        grid-area: ik;
     }
+
+    .prof {
+        grid-area: prof;
+    }
+
+    .minor {
+        grid-area: minor;
+    }
+
+    .derdeGrid {
+        grid-area: derdeGrid;
+    }
+
+    footer {
+        grid-area: footer;
+    }
+
 }
 
 .minor {
@@ -75,7 +81,8 @@ main {
     color: var(--heading-color);
 }
 
-.item,.box {
+.item,
+.box {
     border: 2px solid lightseagreen;
     padding: 20px;
     margin: 30px;
@@ -86,12 +93,12 @@ main {
 }
 
 .item {
-    background-color: aqua;
+    background-color: var(--item-color);
     color: var(--item-color);
 }
 
 .box {
-    background-color: paleturquoise;
+    background-color: var(--box-color);
     color: var(--box-color);
 }
 
