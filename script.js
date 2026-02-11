@@ -1,3 +1,5 @@
+// Bron: https://teams.microsoft.com/v2/
+// (Workshop van Justus)
 console.log("werkt!");
 
 const apiURL = "https://fdnd.directus.app/items/person/290"
@@ -21,6 +23,8 @@ async function fetchJson(url, payload = {}) {
     .catch((error) => error)
 }
 
+// Bron: https://codepen.io/your-work
+// Geleerd van Sanne en zelf kunnen toepassen :)
 const base = "https://fdnd.directus.app/items"
 let endpoint = "/person?filter[id][_in]=301, 286, 283, 222"
 let url = base + endpoint

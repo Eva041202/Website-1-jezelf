@@ -1,16 +1,5 @@
 # Dag 01 (03-02-2026)
-
 Vandaag wat geprobeerd in HTML
-
-<img src="./media/dag_01/ontwerp.jpg" alt="ontwerp" width="500px">
-<img src="./media/dag_01/01.jpg" alt="01" width="500px">
-<img src="./media/dag_01/02.jpg" alt="02" width="500px">
-<img src="./media/dag_01/03.jpg" alt="03" width="500px">
-<img src="./media/dag_01/04.jpg" alt="04" width="500px">
-<img src="./media/dag_01/05.jpg" alt="05" width="500px">
-<img src="./media/dag_01/06.jpg" alt="06" width="500px">
-<img src="./media/dag_01/07.jpg" alt="07" width="500px">
-<img src="./media/dag_01/08.jpg" alt="08" width="500px">
 
 # Checkout
 ## Wat heb ik gedaan vandaag: 
@@ -31,18 +20,7 @@ Ik volg de twee workshops van Justus.
 
 
 # Dag 02 (04-02-2026)
-
 Wat gedaan met CSS
-
-<img src="./media/dag_02/09.jpg" alt="09" width="500px">
-<img src="./media/dag_02/10.jpg" alt="10" width="500px">
-<img src="./media/dag_02/11.jpg" alt="11" width="500px">
-<img src="./media/dag_02/12.jpg" alt="12" width="500px">
-<img src="./media/dag_02/13.jpg" alt="13" width="500px">
-<img src="./media/dag_02/14.jpg" alt="14" width="500px">
-<img src="./media/dag_02/15.jpg" alt="15" width="500px">
-<img src="./media/dag_02/16.jpg" alt="16" width="500px">
-<img src="./media/dag_02/17.jpg" alt="17" width="500px">
 
 ## Checkout
 Besproken met Jelle 
@@ -73,16 +51,10 @@ Morgen om 10:00 volg de de workshop Theming van Vasilis en om 11:00 Responsivene
 Daarna wil ik verder met ontdekken in code en verder komen met mijn website.
 
 # Dag 3 (05-02-2026)
-
 Workshop theming gevolgd. Ik vond het prima te volgen en ik weet nu hoe ik een dark-light-mode kan aanmaken.
 Workshop responsiveness gevolgd. Dit was te volgen, maar hier moet ik wel meer mee oefenen.
 
 Van Vasilis de dlo-pagina gekregen van cmd jaar 2 om met CSS te kunnen oefenen.
-
-<img src="./media/dag_03/18.jpg" alt="18" width="500px">
-<img src="./media/dag_03/19.jpg" alt="19" width="500px">
-<img src="./media/dag_03/20.jpg" alt="20" width="500px">
-<img src="./media/dag_03/21.jpg" alt="21" width="500px">
 
 ## Checkout
 Besproken met Joost.
@@ -128,19 +100,57 @@ Vandaag heb ik het artikel 'Understanding the fundamentals of CSS Layout' geleze
 Ik wilde een button maken op de website voor dark/light mode, maar dit was niet nodig. Ik heb nu een dark/light mode zonder knop.
 Met typography wat geprobeerd en verschillende kopjes het lettertype aangepast.
 
-<a href="https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/">Understanding the fundamentals of CSS Layout</a>
+# Weekoverzicht.
+## Dag 01:
+Bron: https://chatgpt.com/
+(chat vroeg ik om bepaalde dingen in Jip-en-Janneke-taal uit te leggen)
+<img src="./media/dag_01/ontwerp.jpg" alt="ontwerp" width="300px">
+<img src="./media/dag_01/01.jpg" alt="01" width="300px">
+<img src="./media/dag_01/02.jpg" alt="02" width="300px">
+<img src="./media/dag_01/03.jpg" alt="03" width="300px">
+<img src="./media/dag_01/04.jpg" alt="04" width="300px">
+<img src="./media/dag_01/05.jpg" alt="05" width="300px">
+<img src="./media/dag_01/06.jpg" alt="06" width="300px">
+<img src="./media/dag_01/07.jpg" alt="07" width="300px">
+<img src="./media/dag_01/08.jpg" alt="08" width="300px">
 
-<img src="./media/dag_04/22.jpg" alt="22" width="500px">
-<img src="./media/dag_04/23.jpg" alt="23" width="500px">
-<img src="./media/dag_04/24.jpg" alt="24" width="500px">
+## Dag 02:
+Bron: https://chatgpt.com/
+<img src="./media/dag_02/09.jpg" alt="09" width="300px">
+<img src="./media/dag_02/10.jpg" alt="10" width="300px">
+<img src="./media/dag_02/11.jpg" alt="11" width="300px">
+<img src="./media/dag_02/12.jpg" alt="12" width="300px">
+<img src="./media/dag_02/13.jpg" alt="13" width="300px">
+<img src="./media/dag_02/14.jpg" alt="14" width="300px">
+<img src="./media/dag_02/15.jpg" alt="15" width="300px">
+<img src="./media/dag_02/16.jpg" alt="16" width="300px">
+<img src="./media/dag_02/17.jpg" alt="17" width="300px">
 
-##Checkout week.
+## Dag 03:
+Bron: https://chatgpt.com/
+<img src="./media/dag_03/18.jpg" alt="18" width="300px">
+<img src="./media/dag_03/19.jpg" alt="19" width="300px">
+<img src="./media/dag_03/20.jpg" alt="20" width="300px">
+<img src="./media/dag_03/21.jpg" alt="21" width="300px">
 
+## Dag 04:
+Bron: https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/
+<img src="./media/dag_04/22.jpg" alt="22" width="300px">
+<img src="./media/dag_04/23.jpg" alt="23" width="300px">
+<img src="./media/dag_04/24.jpg" alt="24" width="300px">
+
+## Bronnenlijst:
+Chatgpt (2022). Geraadpleegd op 03-02-2026 van https://chatgpt.com/
+
+Understanding the fundamentals of CSS Layout (2026). Geraadpleegd op 06-02-2026 van https://polypane.app/blog/understanding-the-fundamentals-of-css-layout/
+
+CSS Typography, LearnWebCode (2012). Geraadpleegd op 09-02-2026 van https://www.youtube.com/watch?v=RNakAX3rVVw
+
+Teams (2017). Geraadpleegd van https://teams.microsoft.com/v2/
+
+Codepen (2012). Geraadpleegd van https://codepen.io/your-work
 
 # Dag 5 (09-02-2026)
-
-<img src="./media/dag_05/2e_eis.jpg" alt="2e_eis" width="500px">
-
 ## Checkout
 Besproken met Julius.
 Julius is de hele dag bezig geweest met animatie.
@@ -163,7 +173,6 @@ Morgen volg ik de workshop typografie van Vasilis en daarna de workshop basishyg
 Ik wil de gegevens van mezelf uit de API in mijn website zetten onder het kopje "persoonlijk"
 
 # Dag 6 (10-02-2026)
-
 ## Checkout
 Besproken met Jeppe.
 
@@ -185,3 +194,47 @@ Sanne heeft me laten zien hoe je iets op de background kan laten meescrollen of 
 Ik heb nu erg veel wit onder het kopje persoonlijk. Er was minder tekst dan verwacht.
 Ik wil hier voor iets bedenken om het op te vullen
 Ik wil een andere background toevoegen voor de dark-mode
+
+# Dag 7 (11-02-2026)
+## Checkout
+Besproken met
+
+## Wat heb ik gedaan vandaag?
+Bron: https://docs.fdnd.nl/conventies.html#html-conventies
+Met Aya B. code besproken a.d.h.v. de website fdnd docs
+
+## Hoe lang duurde het?
+Van +/- 09:10 tot
+
+## Wat heb ik geleerd?
+Choice heeft me laten zien hoe je het plaatje van de icon van de website kan veranderen
+Tijdens de checkout liet Jeppe me een website zien voor gradient generator. Zo kan ik veel makkelijker naar juiste kleuren zoeken.
+Sanne heeft me laten zien hoe je iets op de background kan laten meescrollen of juist kan vasthouden
+
+## Wat ga ik morgen doen?
+
+# Weekoverzicht
+## Dag 05:
+<img src="./media/dag_05/2e_eis.jpg" alt="2e_eis" width="300px">
+
+## Dag 06:
+Bron: https://developer.mozilla.org/en-US/
+<img src="./media/icon.png" alt="icon" width="200px">
+<img src="./media/dag_06/25.jpg" alt="25" width=300px>
+<img src="./media/dag_06/26.jpg" alt="26" width=300px>
+<img src="./media/dag_06/27.jpg" alt="27" width=300px>
+<img src="./media/dag_06/28.jpg" alt="28" width=300px>
+
+## Dag 07:
+Bron: https://developer.mozilla.org/en-US/
+<img src="./media/dag_07/29.jpg" alt="29" width=300px>
+<img src="./media/dag_07/30.jpg" alt="30" width=300px>
+<img src="./media/dag_07/31.jpg" alt="31" width=300px>
+<img src="./media/dag_07/32.jpg" alt="32" width=300px>
+
+## Bronnenlijst:
+MDN Web Docs (2005). Geraadpleegd op 10-02-2026 van https://developer.mozilla.org/en-US/
+
+CSS Gradient (2018). Geraadpleegd op 10-02-2026 van https://cssgradient.io/
+
+FDND Docs (2022). Geraadpleegd op 11-02-2026 van https://docs.fdnd.nl/conventies.html#html-conventies

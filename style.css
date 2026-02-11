@@ -1,3 +1,4 @@
+/* Bron: https://cssgradient.io/ */
 html {
     color-scheme: light dark;
     --background: #EEAECA;
@@ -7,7 +8,8 @@ html {
     --box-color: paleturquoise;
 
     @media (prefers-color-scheme: dark) {
-        --background: black;
+        --background: #833AB4;
+        --background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(189, 44, 109, 1) 25%, rgba(253, 29, 29, 1) 50%, rgba(252, 116, 53, 1) 75%, rgba(252, 176, 69, 1) 100%);
         --heading-color: lightseagreen;
         --item-color: deeppink;
         --box-color: hotpink;
