@@ -101,6 +101,11 @@ Ik wilde een button maken op de website voor dark/light mode, maar dit was niet 
 Met typography wat geprobeerd en verschillende kopjes het lettertype aangepast.
 
 # Weekoverzicht.
+Eerste week van de minor.
+Ik leer veel in korte tijd, maar er is nog zoveel meer te leren
+Vrijdag voelde ik me best geïntimideerd toen ik de websites van de andere studenten zag
+Een van mijn leerdoelen is om mijn basiskenns te verbreden. Hier ben ik al best mee bezig.
+
 ## Dag 01:
 Bron: https://chatgpt.com/
 (chat vroeg ik om bepaalde dingen in Jip-en-Janneke-taal uit te leggen)
@@ -197,7 +202,7 @@ Ik wil een andere background toevoegen voor de dark-mode
 
 # Dag 7 (11-02-2026)
 ## Checkout
-Besproken met
+Besproken met Sela. Zij heeft het thema toegevoegd en haar website responsive gemaakt.
 
 ## Wat heb ik gedaan vandaag?
 Bron: https://docs.fdnd.nl/conventies.html#html-conventies
@@ -212,8 +217,14 @@ Tijdens de checkout liet Jeppe me een website zien voor gradient generator. Zo k
 Sanne heeft me laten zien hoe je iets op de background kan laten meescrollen of juist kan vasthouden
 
 ## Wat ga ik morgen doen?
+Morgen is o.a. marktje
 
 # Weekoverzicht
+Ik heb afgelopen dagen heb ik veel nieuwe dingen geleerd die ik kon toepassen in mijn website. Zoals, grids, gradient, background, dark/light-mode en meer.
+De website voldoet aan de eisen en voor een eerste keer vind ik het prima met wat ik nu heb gemaakt. In de toekomst hoop ik betere en complexere code te kunnen schrijven. Dit heeft tijd nodig.
+Ook deze week kon ik verder met het doel om mijn basiskennis te vergroten. Ook het doel om te weten welke codeercodes ik nodig heb voor wat ik wil is gaan verbeteren.
+In mijn schrift schrijf ik de tags die er zijn, wat ze doen, hoe je ze codeert en hoe dit op de website eruit ziet. Op die manier kan ik, als ik een bepaald iets op de site wil, terug kijken in het schrift en lezen welke code hierbij hoort.
+
 ## Dag 05:
 <img src="./media/dag_05/2e_eis.jpg" alt="2e_eis" width="300px">
 
